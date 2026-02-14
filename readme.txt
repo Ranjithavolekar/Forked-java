@@ -7,4 +7,6 @@ To run- java Test.java
 Follow these steps to run java projects
 take care
 
-Hello panimalar
+Hello Weekend batch
+Happy weekend
+Happy sunday
