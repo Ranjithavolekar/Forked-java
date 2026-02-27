@@ -1,13 +1,3 @@
 This is java file for github webhook
 
-To run this java file We need to compile
-To compile- javac Test.java
-To run- java Test.java
-
-Follow these steps to run java projects
-take care
-
-Hello Weekend batch
-Happy weekend
-Happy sunday
-All the best!!
+Hello m25 
