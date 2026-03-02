@@ -8,3 +8,5 @@ Welcome to DevOps
 Today is monday
 
 Ur thoughts are like clouds in the sky
+
+Have some grandma hobbies for better life
